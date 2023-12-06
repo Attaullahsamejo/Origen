@@ -31,17 +31,14 @@ img {
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
-  
 }
 
 .navbar-section {
-    gap: 80px;
-    
+    gap: 80px; 
 }
 
 .navbar-nav {
-    gap: 42px;
-    
+    gap: 42px;  
 }
 
 .btn {
