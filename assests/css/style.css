@@ -45,6 +45,11 @@ img {
     padding: 8px 24px;
     border-radius: 30px;
 }
+.line{
+    border-right: 1px solid;
+    padding-right: 18px;
+    color: #C9C9C9;
+}
 .navbar-icon{
     padding: 12px 20px;
     gap: 18px;
@@ -174,9 +179,7 @@ p {
     font-style: normal;
     font-weight: 400;
     line-height: 155.1%;
-    /* 26.367px */
 }
-
 
 .server-section svg {
     min-width: 17px;
