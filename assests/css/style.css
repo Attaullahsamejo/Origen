@@ -138,6 +138,11 @@ p {
     font-weight: 400;
 }
 
+.color-01{
+    opacity: 1;
+    background: #FAFAFA;
+}
+
 .bg-light{
     opacity: 1;
     background: #FAFAFA;
@@ -171,6 +176,7 @@ p {
     line-height: 155.1%;
     /* 26.367px */
 }
+
 
 .server-section svg {
     min-width: 17px;
