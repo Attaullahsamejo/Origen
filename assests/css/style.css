@@ -79,7 +79,7 @@ button,a {
 }
 
 .fs-p{
-    color: var(--secondary-text, #575757);
+    color:  #575757;
     font-family: Nunito;
     font-size: 20px;
     font-style: normal;
@@ -116,7 +116,6 @@ p {
     font-family: Nunito;
     font-size: 17px;
     color: #575757;
-    font-family: Nunito;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
